@@ -66,6 +66,8 @@
     "dropzone": "^5.9.3",
     "echarts": "^5.6.0",
     "flot": "^4.2.6",
+    "gentelella": "^2.0.0",
+    "gulp": "^5.0.1",
     "inputmask": "^5.0.9",
     "ion-rangeslider": "^2.3.1",
     "jquery": "^3.6.1",
